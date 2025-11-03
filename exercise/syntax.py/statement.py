@@ -1,0 +1,1 @@
+print("hello, world!");print("semicolon is needed to seperate the statements")
